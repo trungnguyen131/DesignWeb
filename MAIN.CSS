@@ -1,0 +1,45 @@
+.SD{
+    width:calc(50% + 50%) ;
+    height:120PX ;
+    background-color: black;
+    position:fixed;
+    right: 0;
+    left: 0;
+   
+    TOP:0;
+    
+    color: white;
+    font-size: calc(30PX + 30PX);
+    text-align: center;
+   
+    
+}
+UL{
+    height:3000PX ;
+   
+}
+.T:hover{
+    color: coral;
+    
+}
+
+H1{
+    margin-top:200PX ;
+}
+.QW{
+    width:100% ;
+    height:80PX ;
+    background-color:black;
+    position: fixed;
+    bottom:0 ;
+    left: 0;
+    right: 0;
+}
+#HJ{
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(180DEG,rgba(179, 55, 158, 0.5),rgb(217, 114, 226,0.5)) ;
+}
+.SD::first-letter{
+    font-size:110PX ;
+}
